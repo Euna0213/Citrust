@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Euna" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/farm_green</item>
+        <item name="colorPrimaryVariant">@color/farm_green_dark</item>
+        <item name="colorSecondary">@color/citrus_orange</item>
+
+    </style>
+</resources>
