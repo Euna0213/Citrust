@@ -33,7 +33,9 @@
 
 아래 이미지를 클릭하면 Dogtor 앱 데모 영상을 확인할 수 있습니다.
 
-[![Dogtor Demo](demo.png)](https://drive.google.com/file/d/1khecHAWUI0fv_XbWkagN5A-39WRP16RX/view?usp=drive_link)
+<a href="https://drive.google.com/file/d/1khecHAWUI0fv_XbWkagN5A-39WRP16RX/view?usp=drive_link">
+  <img src="demo.png" alt="Dogtor Demo" width="300">
+</a>
 
 
 ---
